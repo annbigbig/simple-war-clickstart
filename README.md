@@ -17,4 +17,4 @@ text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
 }
 </style>
 
-        <a class="call-action-home-revised" href="https://grandcentral.cloudbees.com/account/signup"><strong>DEPLOY NOW</strong> ON CLOUDBEES</a>
+<a class="call-action-home-revised" href="https://grandcentral.cloudbees.com/account/signup"><strong>DEPLOY NOW</strong> ON CLOUDBEES</a>
